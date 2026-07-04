@@ -2,7 +2,7 @@
 # Classification d'Images : Dogs vs Cats — CNN & Transfer Learning
 
 Projet Final — Module 06 Deep Learning | EHTP 2024
-Auteur : **Badr ben el ahmar *
+Auteur : **Badr ben el ahmar **
 
 ---
 
